@@ -87,22 +87,25 @@ Mode	Description
 😂 Funny	Humorous and entertaining responses
 
 img_01
-![Uploading Screenshot 2026-09-16 230727.png…]()
+
+<img width="953" height="440" alt="Screenshot 2026-09-16 230727" src="https://github.com/user-attachments/assets/5b04df58-47eb-4b82-b939-84b16321c6cd" />
+
 
 img_02
-![Uploading Screenshot 2026-09-16 230856.png…]()
+<img width="949" height="438" alt="Screenshot 2026-09-16 230856" src="https://github.com/user-attachments/assets/2e539c5a-a7d5-4393-8ef2-84dd61d22151" />
 
 img_03
-![Uploading Screenshot 2026-09-16 230759.png…]()
+<img width="958" height="446" alt="Screenshot 2026-09-16 230759" src="https://github.com/user-attachments/assets/f4db77cd-1e17-43c7-9383-02ba64793d1a" />
 
 img_04
-![Uploading Screenshot 2026-09-16 231035.png…]()
+<img width="951" height="441" alt="Screenshot 2026-09-16 231035" src="https://github.com/user-attachments/assets/92f21a53-1a55-4880-af72-35cae0afb524" />
 
 img_05
-![Uploading Screenshot 2026-09-16 231048.png…]()
+<img width="956" height="446" alt="Screenshot 2026-09-16 231048" src="https://github.com/user-attachments/assets/7b8758c6-3cdb-456a-be3d-012f7b047230" />
 
 img_06
-![Uploading Screenshot 2026-09-16 231056.png…]()
+<img width="956" height="446" alt="Screenshot 2026-09-16 231056" src="https://github.com/user-attachments/assets/873087c8-88f6-4c9d-aae8-376c9374e43a" />
+
 
 
 
